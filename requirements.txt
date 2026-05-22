@@ -1,4 +1,4 @@
 streamlit
 pyproj
-psycopg2-binary
+supabase==2.3.0
 pandas
